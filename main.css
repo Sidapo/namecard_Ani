@@ -4,7 +4,7 @@ body {
   width: 100%;
   margin: 0;
   justify-content: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.7)), url("background_map.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)), url("background_map.png");
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
@@ -29,8 +29,8 @@ img {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-    max-height: 100%;
-    max-width: 100%;
+    max-height: 80%;
+    max-width: 80%;
     height: auto;
     width: auto;
     object-fit: contain;
@@ -173,7 +173,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #af3123;
+	background-color: #9b291f;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
