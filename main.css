@@ -4,6 +4,10 @@ body {
   width: 100%;
   margin: 0;
   justify-content: center;
+  background-image: url("background_map.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
 }
 
 section {
@@ -135,31 +139,33 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #4d4f51;
+	opacity: 0.75;
 }
 
 .bg-color-white {
-	background-color: white;
+	background-color: #4d4f51;
+	opacity: 0.5;
 }
 
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #333333;
+    color: #F4F0DE;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
-    color: #333333;
+    color: #F4F0DE;
     font-size: 12px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #575757;
+    color: #F4F0DE;
     font-size: 12px;
 }
 
@@ -176,7 +182,7 @@ img.profile-pic {
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
-	color: white;
+	color: #F4F0DE;
 	font-weight: 300;
 }
 
