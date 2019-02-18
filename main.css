@@ -29,15 +29,13 @@ img {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-    max-height: 100px;
+    max-width: 100px;
     height: auto;
     width: auto;
     object-fit: contain;
 }
 
 img.profile-pic {
-	max-height: 60%;
-        max-width: 60%;
 	height: 30%;
 	width: 30%;
 	object-fit: cover;
