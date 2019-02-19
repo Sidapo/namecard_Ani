@@ -7,7 +7,7 @@ ORG:cartisan.org;
 TITLE:Cartographer
 EMAIL;type=INTERNET;type=WORK;type=pref:simon@cartisan.org
 TEL;type=WORK;type=VOICE:+49 157 314 316 48
-item1.ADR;type=WORK;type=pref:;;Morusstr. 16\n;;;12053;Berlin\nGermany
+item1.ADR;type=WORK;type=pref:;Berlin\nGermany
 item1.X-ABADR:sg
 item2.URL;type=pref:cartisan.org
 item2.X-ABLabel:_$!<HomePage>!$_
